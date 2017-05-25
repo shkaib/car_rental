@@ -1,0 +1,18 @@
+[12-Feb-2017 07:15:30 America/New_York] PHP Warning:  include(VPCPaymentConnection.php): failed to open stream: No such file or directory in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:15:30 America/New_York] PHP Warning:  include(): Failed opening 'VPCPaymentConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:15:30 America/New_York] PHP Fatal error:  Class 'VPCPaymentConnection' not found in /home/expressrcar/public_html/payment/paymentresponse.php on line 9
+[12-Feb-2017 07:15:31 America/New_York] PHP Warning:  include(VPCPaymentConnection.php): failed to open stream: No such file or directory in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:15:31 America/New_York] PHP Warning:  include(): Failed opening 'VPCPaymentConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:15:31 America/New_York] PHP Fatal error:  Class 'VPCPaymentConnection' not found in /home/expressrcar/public_html/payment/paymentresponse.php on line 9
+[12-Feb-2017 07:18:16 America/New_York] PHP Warning:  include(VPCPaymentConnection.php): failed to open stream: No such file or directory in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:18:16 America/New_York] PHP Warning:  include(): Failed opening 'VPCPaymentConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:18:16 America/New_York] PHP Fatal error:  Class 'VPCPaymentConnection' not found in /home/expressrcar/public_html/payment/paymentresponse.php on line 9
+[12-Feb-2017 07:18:27 America/New_York] PHP Warning:  include(VPCPaymentConnection.php): failed to open stream: No such file or directory in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:18:27 America/New_York] PHP Warning:  include(): Failed opening 'VPCPaymentConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:18:27 America/New_York] PHP Fatal error:  Class 'VPCPaymentConnection' not found in /home/expressrcar/public_html/payment/paymentresponse.php on line 9
+[12-Feb-2017 07:19:00 America/New_York] PHP Warning:  include(VPCPaymentConnection.php): failed to open stream: No such file or directory in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:19:00 America/New_York] PHP Warning:  include(): Failed opening 'VPCPaymentConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:19:00 America/New_York] PHP Fatal error:  Class 'VPCPaymentConnection' not found in /home/expressrcar/public_html/payment/paymentresponse.php on line 9
+[12-Feb-2017 07:20:35 America/New_York] PHP Warning:  include(VPCPaymentConnection.php): failed to open stream: No such file or directory in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:20:35 America/New_York] PHP Warning:  include(): Failed opening 'VPCPaymentConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/expressrcar/public_html/payment/paymentresponse.php on line 8
+[12-Feb-2017 07:20:35 America/New_York] PHP Fatal error:  Class 'VPCPaymentConnection' not found in /home/expressrcar/public_html/payment/paymentresponse.php on line 9
